@@ -1,5 +1,13 @@
 # WAV Player Example (Forked from ESP iotExamples)
 
+## PINS for ESP32C3
+
+- Pin 2 + G
+- Pin 3 + G
+
+It's around 3.5 Vpp
+Vmax is 1.75V
+
 This example will show how to configure and operate the LEDC peripheral to play WAV files that store in flash or sdcard.
 
 ## How to Use Example
